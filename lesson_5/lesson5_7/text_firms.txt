@@ -1,0 +1,6 @@
+EvroHim AO 35000 20000
+UralKalij AO 27000 29000
+Shahtspecstroj OOO 13500 16000
+Ajerosfera OOO 12000 7000
+GeofizicheskieIzmerenija IP 8000 10000
+Gallurgija IP 10000 4500
